@@ -5,3 +5,8 @@ body{
 h1{
 	color: white;
 }
+
+.buttons{
+	transform: translateX(0px);
+
+}
