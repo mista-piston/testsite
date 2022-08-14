@@ -10,3 +10,19 @@ h1{
 	transform: translateX(1px);
 
 }
+
+.buttons2{
+	transform: translateY(-48px) translateX(1px);
+
+}
+
+.buttons2 a{
+	opacity: 0;
+
+}
+
+.buttons2 a:hover{
+	opacity: 1;
+	transition:0.1s;
+
+}
