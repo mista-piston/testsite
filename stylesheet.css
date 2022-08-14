@@ -41,18 +41,15 @@ p{
 	font-family: Courier New;
 	font-size: 125%;
 	font-weight: bold;
-}
-
-img {
-  image-rendering: auto;
-  image-rendering: crisp-edges;
-  image-rendering: pixelated;
-}
-
-p{
 	text-rendering: geometricPrecision; 
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	padding-top: 0;
 	padding-bottom: 0;
 }
+
+img {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+ }
